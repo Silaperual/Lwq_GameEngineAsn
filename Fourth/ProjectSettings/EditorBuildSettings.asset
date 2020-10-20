@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
+  - enabled: 0
+    path: Assets/Cloth/Characters/Scenes/homework-scene.unity
+    guid: ba1573b48738a724ebbe3cc5f6187cef
+  - enabled: 0
+    path: Assets/Break/BreakScene.unity
+    guid: f7fd0fa62639d8d42aae18f229885cfa
   - enabled: 1
-    path: Assets/IMDT/BASE/Scenes/Main.unity
-    guid: edce6a3cd6b78e7459bd2864b9295f8c
-  - enabled: 1
-    path: Assets/3rdPerson+Fly(Mobile)/Scenes/3rdPerson+Fly(touchscreen-cam).unity
-    guid: 82c8bafeb6f17a44c9197ab4cb088adc
+    path: Assets/Cloth/Characters/Scenes/demo-scene.unity
+    guid: b06c2e878171bf045a6bd500b936b3d1
   m_configObjects: {}
