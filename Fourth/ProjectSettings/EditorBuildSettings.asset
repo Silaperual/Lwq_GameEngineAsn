@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Cloth/Characters/Scenes/homework-scene.unity
     guid: ba1573b48738a724ebbe3cc5f6187cef
-  - enabled: 0
+  - enabled: 1
     path: Assets/Break/BreakScene.unity
     guid: f7fd0fa62639d8d42aae18f229885cfa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Cloth/Characters/Scenes/demo-scene.unity
     guid: b06c2e878171bf045a6bd500b936b3d1
   m_configObjects: {}

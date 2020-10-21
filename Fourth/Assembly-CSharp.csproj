@@ -86,6 +86,7 @@
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ParticleMenu.cs" />
     <Compile Include="Assets\Script\Grenade.cs" />
     <Compile Include="Assets\Script\GrenadeThrower.cs" />
+    <Compile Include="Assets\Script\MoveCharacter.cs" />
     <Compile Include="Assets\Script\StopExplode.cs" />
     <Compile Include="Assets\Script\SwitchModel.cs" />
     <Compile Include="Assets\Script\SwitchScene.cs" />
