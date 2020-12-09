@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9B63B166-274C-4F94-B72A-743C0E695A8A}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{9B63B166-274C-4F94-B72A-743C0E695A8A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Menu_Pop" ID="{BAE638FA-A2D3-4A69-9DAE-5D6818B5F83C}" ShortID="230425919">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MenuOpen" ID="{1B71D122-59C7-4B40-ACAB-D95A2DCFF8F2}">
+							<Language>SFX</Language>
+							<AudioFile>MenuOpen.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="497554185"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MenuOpen" ID="{1B71D122-59C7-4B40-ACAB-D95A2DCFF8F2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="Rain_Random" ID="{B5663D13-B76E-4EC8-A6A0-EC1C19731D46}" ShortID="221756823">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{D52D2246-361F-41A6-B11F-9842BE58EE8D}" ShortID="369221241">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{1295DE3A-D0DD-4796-A492-62375F58F137}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="514924640"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{1295DE3A-D0DD-4796-A492-62375F58F137}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{891F455B-4953-47DA-A81B-41D48062D066}" ShortID="548137658">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{29652BC2-1251-4525-A5B5-3CD416E48C49}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="695488694"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{29652BC2-1251-4525-A5B5-3CD416E48C49}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{E3A6929C-D0E7-421E-BE35-7C81FBFBC57B}" ShortID="775749233">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{56445068-9C69-4204-94BC-A1DEEFAFED53}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 03.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="78823392"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{56445068-9C69-4204-94BC-A1DEEFAFED53}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="Car_StartAcc" ID="{08E4D32E-7692-49AB-8AE1-E19F4572B925}" ShortID="801482649">
+					<PropertyList>
+						<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Freesound - ready by Alivvie" ID="{16CBE706-27F6-4E90-AFD7-DA10A34FE3FC}" ShortID="1071620964">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - ready by Alivvie" ID="{2B0EF7D7-C4DA-4ACB-8344-5163415154F0}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - ready by Alivvie.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="211139109"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - ready by Alivvie" ID="{2B0EF7D7-C4DA-4ACB-8344-5163415154F0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{C43CBB8F-3360-4F77-B393-15E8F4AA467B}" ShortID="1036406179">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{35DC4C46-8487-4347-84B4-9642A73AB13E}">
+									<Language>SFX</Language>
+									<AudioFile>Transportation Car Race Car Drive Off Loud Exhaust 08.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="367940265"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{35DC4C46-8487-4347-84B4-9642A73AB13E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - Race Start Ready go by steel2008" ID="{B34E2FE8-A0AD-4A92-99AB-A5D76729298C}" ShortID="626017688">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Race Start Ready go by steel2008" ID="{9BD77167-B25C-4625-8C93-312718774D70}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Race Start Ready go by steel2008.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="384363436"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Race Start Ready go by steel2008" ID="{9BD77167-B25C-4625-8C93-312718774D70}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<Playlist>
+						<ItemRef Name="Freesound - ready by Alivvie" ID="{16CBE706-27F6-4E90-AFD7-DA10A34FE3FC}"/>
+						<ItemRef Name="Freesound - Race Start Ready go by steel2008" ID="{B34E2FE8-A0AD-4A92-99AB-A5D76729298C}"/>
+						<ItemRef Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{C43CBB8F-3360-4F77-B393-15E8F4AA467B}"/>
+					</Playlist>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

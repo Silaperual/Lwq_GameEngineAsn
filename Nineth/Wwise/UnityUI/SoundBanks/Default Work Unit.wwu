@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A3793CEC-217F-4909-8E00-EC65EFB004ED}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A3793CEC-217F-4909-8E00-EC65EFB004ED}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="UI" ID="{BECD8DC5-315B-4C30-9F2A-971EA594E488}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Rain_Random" ID="{5C8DF674-EECB-47D4-B35F-5F912C45E55B}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Menu_Pop" ID="{499E3CF1-6F49-4B0A-A4A3-94FA3A8BE79E}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	94729922	Play_Rain_Random			\Default Work Unit\Play_Rain_Random	
+	1490931560	Play_Car_StartAcc			\Default Work Unit\Play_Car_StartAcc	
+	2550995819	Play_Menu_Pop			\Default Work Unit\Play_Menu_Pop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	78823392	Weather Ambience Heavy Rain Downpour Splatty 03	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 03		17297472
+	211139109	Freesound - ready by Alivvie	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - ready by Alivvie_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Freesound - ready by Alivvie		74740
+	367940265	Transportation Car Race Car Drive Off Loud Exhaust 08	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Transportation Car Race Car Drive Off Loud Exhaust 08_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Transportation Car Race Car Drive Off Loud Exhaust 08		1305816
+	384363436	Freesound - Race Start Ready go by steel2008	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Race Start Ready go by steel2008_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Freesound - Race Start Ready go by steel2008		367724
+	497554185	Menu_Pop	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\MenuOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Pop		32384
+	514924640	Weather Ambience Heavy Rain Downpour Splatty 01	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 01		17298496
+	695488694	Weather Ambience Heavy Rain Downpour Splatty 02	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 02		17299008
+
