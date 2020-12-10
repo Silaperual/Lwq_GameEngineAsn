@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="97">
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Virtual Acoustics\Factory Reflect Acoustic Textures.wwu" DateLow="1607505140" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Virtual Acoustics\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\UnityUI.wproj" DateLow="1607530124" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\UnityUI.Shirl.wsettings" DateLow="1607619810" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Triggers\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Switches\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\States\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\SoundBanks\Default Work Unit.wwu" DateLow="1607609612" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Queries\Factory Queries.wwu" DateLow="1607505135" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Queries\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Presets\Factory Spatial Audio.wwu" DateLow="1607505135" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Presets\Factory Reflect.wwu" DateLow="1607505140" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Presets\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Modulators\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Mixing Sessions\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607608239" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1607505143" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Game Parameters\Factory Motion.wwu" DateLow="1607505139" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Game Parameters\Default Work Unit.wwu" DateLow="1607607866" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Events\Default Work Unit.wwu" DateLow="1607608661" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory Reflect.wwu" DateLow="1607505140" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory McDSP Effects.wwu" DateLow="1607505152" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory Mastering Suite.wwu" DateLow="1607505139" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Filters.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Dynamics.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Delay.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory iZotope Box Modeler.wwu" DateLow="1607505154" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory Effects.wwu" DateLow="1607505135" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Factory Auro Headphone.wwu" DateLow="1607505143" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Effects\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1607505135" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Conversion Settings\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Control Surface Sessions\Default Work Unit.wwu" DateLow="1607528831" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Audio Devices\Default Work Unit.wwu" DateLow="1607528923" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Attenuations\Default Work Unit.wwu" DateLow="1607604799" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1607505135" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1607505143" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1607578633" DateHigh="0"/>
+	<ValidationCacheItem File="C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1607613293" DateHigh="0"/>
+</ValidationCache>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A3793CEC-217F-4909-8E00-EC65EFB004ED}" SchemaVersion="97">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{A3793CEC-217F-4909-8E00-EC65EFB004ED}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="UI" ID="{BECD8DC5-315B-4C30-9F2A-971EA594E488}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Stop_Firework_Random" ID="{FFB4CC69-823E-4162-AFF2-BC3810D683B8}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Rain_Random" ID="{71A57DE2-8D4A-43A1-8C41-D884CF18A031}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Wind_Noise" ID="{B149C016-AAC0-451F-81C7-5C1130D027BE}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Rain_Random" ID="{5C8DF674-EECB-47D4-B35F-5F912C45E55B}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Firework_Random" ID="{A99A4792-0B0D-4972-B31D-FD64B146F2ED}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Menu_Pop" ID="{499E3CF1-6F49-4B0A-A4A3-94FA3A8BE79E}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Wind_Noise" ID="{5730703E-0C95-4B1C-9449-1E4B37F752FD}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Stop_Car_StartAcc" ID="{A4379D3A-B150-4E95-AF68-4C2870253064}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Car_StartAcc" ID="{561712B1-2FEE-4FD2-81AB-D70C2503DEBB}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+				<SoundBank Name="Character" ID="{6BC6BF12-5E80-4DA1-83B7-3C2769541F21}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Stop_Firework_Random" ID="{FFB4CC69-823E-4162-AFF2-BC3810D683B8}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Firework_Random" ID="{A99A4792-0B0D-4972-B31D-FD64B146F2ED}" WorkUnitID="{F335D73E-C842-48DB-95F5-E673636D7933}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

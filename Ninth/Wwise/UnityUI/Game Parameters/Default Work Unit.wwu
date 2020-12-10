@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{3B10FE25-A00F-4334-97F3-993B2D5E165F}" SchemaVersion="97">
+	<GameParameters>
+		<WorkUnit Name="Default Work Unit" ID="{3B10FE25-A00F-4334-97F3-993B2D5E165F}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="WindVolume" ID="{D73E1789-746A-4954-9098-9567C19D8384}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="SFXVolumeCrtl" ID="{4A9FBB48-7BB2-4A3D-BA7E-B52FC69C941D}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="80"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="SoundVolumeCtrl" ID="{CAE847A6-7409-4DFB-AE64-8FE07F2DF86C}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="80"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="VoiceVolumnCtrl" ID="{555E5D3B-5E08-4259-94F8-9131A1D82D83}">
+					<PropertyList>
+						<Property Name="FilterTimeDown" Type="Real64" Value="1"/>
+						<Property Name="InitialValue" Type="Real64" Value="80"/>
+						<Property Name="RTPCRamping" Type="int16" Value="2"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Character_SideChain" ID="{3F4625D8-5B4C-4E1F-B4D1-DCA8069D9CCF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="-60"/>
+						<Property Name="Max" Type="Real64" Value="0"/>
+						<Property Name="Min" Type="Real64" Value="-60"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>

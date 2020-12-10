@@ -1,0 +1,34 @@
+Event	ID	Name			Wwise Object Path	Notes
+	72478519	Play_Wind_Noise			\Default Work Unit\Play_Wind_Noise	
+	94729922	Play_Rain_Random			\Default Work Unit\Play_Rain_Random	
+	938457517	Play_Firework_Random			\Default Work Unit\Play_Firework_Random	
+	1456013716	Stop_Rain_Random			\Default Work Unit\Stop_Rain_Random	
+	1490931560	Play_Car_StartAcc			\Default Work Unit\Play_Car_StartAcc	
+	2421352685	Stop_Wind_Noise			\Default Work Unit\Stop_Wind_Noise	
+	2550995819	Play_Menu_Pop			\Default Work Unit\Play_Menu_Pop	
+	3272339231	Stop_Firework_Random			\Default Work Unit\Stop_Firework_Random	
+	4082738290	Stop_Car_StartAcc			\Default Work Unit\Stop_Car_StartAcc	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	4122698001	WindVolume			\Default Work Unit\WindVolume	
+
+Effect plug-ins	ID	Name	Type				Notes
+	527267199	Wwise_Time_Stretch_(Custom)	Wwise Time Stretch			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	78823392	Weather Ambience Heavy Rain Downpour Splatty 03	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 03		17297472
+	211139109	Freesound - ready by Alivvie	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - ready by Alivvie_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Freesound - ready by Alivvie		74740
+	282267578	Freesound - Race Track by FoolBoyMedia	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Race Track by FoolBoyMedia_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Freesound - Race Track by FoolBoyMedia		8604448
+	367940265	Transportation Car Race Car Drive Off Loud Exhaust 08	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Transportation Car Race Car Drive Off Loud Exhaust 08_C965D915.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Transportation Car Race Car Drive Off Loud Exhaust 08		955456
+	384363436	Freesound - Race Start Ready go by steel2008	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Race Start Ready go by steel2008_22BC100C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Car_StartAcc\Freesound - Race Start Ready go by steel2008		247744
+	497554185	Menu_Pop	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\MenuOpen_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Menu_Pop		32384
+	514924640	Weather Ambience Heavy Rain Downpour Splatty 01	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 01		17298496
+	554441454	Freesound - Whistle and Explosion Single_Firework by Rudmer_	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Whistle and Explosion Single_Firework by Rudmer__10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Firework_Random\Freesound - Whistle and Explosion Single_Firework by Rudmer_		229692
+	695488694	Weather Ambience Heavy Rain Downpour Splatty 02	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Weather Ambience Heavy Rain Downpour Splatty 02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Rain_Random\Weather Ambience Heavy Rain Downpour Splatty 02		17299008
+	707894444	Freesound - tinymortar_wav by j1987	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - tinymortar.wav by j1987_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Firework_Random\Freesound - tinymortar_wav by j1987		316864
+	1046147508	Freesound - firework rocket_wav by bigpickle51	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - firework rocket.wav by bigpickle51_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\Firework_Random\Freesound - firework rocket_wav by bigpickle51		432064
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	678007999	Freesound - Autumn wind and dry leaves_wav by Stek59	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Autumn wind and dry leaves.wav by Stek59_D79FB2B7.wem	678007999.wem	\Actor-Mixer Hierarchy\Default Work Unit\Wind_Noise\Freesound - Autumn wind and dry leaves_wav by Stek59	
+	685517661	Freesound - Strong Wind through leaves_wav by juskiddink	C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\SFX\Freesound - Strong Wind through leaves.wav by juskiddink_D79FB2B7.wem	685517661.wem	\Actor-Mixer Hierarchy\Default Work Unit\Wind_Noise\Freesound - Strong Wind through leaves_wav by juskiddink	
+

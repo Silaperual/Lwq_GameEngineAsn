@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9B63B166-274C-4F94-B72A-743C0E695A8A}" SchemaVersion="97">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{9B63B166-274C-4F94-B72A-743C0E695A8A}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Menu_Pop" ID="{BAE638FA-A2D3-4A69-9DAE-5D6818B5F83C}" ShortID="230425919">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{ED904513-2397-47E3-84C9-90B7B3B7D2D0}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MenuOpen" ID="{1B71D122-59C7-4B40-ACAB-D95A2DCFF8F2}">
+							<Language>SFX</Language>
+							<AudioFile>MenuOpen.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="497554185"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MenuOpen" ID="{1B71D122-59C7-4B40-ACAB-D95A2DCFF8F2}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="Rain_Random" ID="{B5663D13-B76E-4EC8-A6A0-EC1C19731D46}" ShortID="221756823">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{7B86D05A-01AD-4376-B518-B96B538CF868}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="500"/>
+											<Property Name="Min" Type="Real64" Value="-500"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{ED904513-2397-47E3-84C9-90B7B3B7D2D0}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{D52D2246-361F-41A6-B11F-9842BE58EE8D}" ShortID="369221241">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{1295DE3A-D0DD-4796-A492-62375F58F137}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 01.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="514924640"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 01" ID="{1295DE3A-D0DD-4796-A492-62375F58F137}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{891F455B-4953-47DA-A81B-41D48062D066}" ShortID="548137658">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{29652BC2-1251-4525-A5B5-3CD416E48C49}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 02.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="695488694"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 02" ID="{29652BC2-1251-4525-A5B5-3CD416E48C49}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{E3A6929C-D0E7-421E-BE35-7C81FBFBC57B}" ShortID="775749233">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{56445068-9C69-4204-94BC-A1DEEFAFED53}">
+									<Language>SFX</Language>
+									<AudioFile>Weather Ambience Heavy Rain Downpour Splatty 03.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="78823392"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Weather Ambience Heavy Rain Downpour Splatty 03" ID="{56445068-9C69-4204-94BC-A1DEEFAFED53}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="Car_StartAcc" ID="{08E4D32E-7692-49AB-8AE1-E19F4572B925}" ShortID="801482649">
+					<PropertyList>
+						<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+						<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{ED904513-2397-47E3-84C9-90B7B3B7D2D0}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Freesound - ready by Alivvie" ID="{16CBE706-27F6-4E90-AFD7-DA10A34FE3FC}" ShortID="1071620964">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>10</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - ready by Alivvie" ID="{2B0EF7D7-C4DA-4ACB-8344-5163415154F0}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - ready by Alivvie.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="211139109"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - ready by Alivvie" ID="{2B0EF7D7-C4DA-4ACB-8344-5163415154F0}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{C43CBB8F-3360-4F77-B393-15E8F4AA467B}" ShortID="1036406179">
+							<PropertyList>
+								<Property Name="Volume" Type="Real64">
+									<ValueList>
+										<Value>7</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{35DC4C46-8487-4347-84B4-9642A73AB13E}">
+									<PropertyList>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimBegin" Type="Real64" Value="0.321"/>
+										<Property Name="TrimEnd" Type="Real64" Value="5.297"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Transportation Car Race Car Drive Off Loud Exhaust 08.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="367940265"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{35DC4C46-8487-4347-84B4-9642A73AB13E}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - Race Start Ready go by steel2008" ID="{B34E2FE8-A0AD-4A92-99AB-A5D76729298C}" ShortID="626017688">
+							<PropertyList>
+								<Property Name="InitialDelay" Type="Real64">
+									<ValueList>
+										<Value>0.5</Value>
+									</ValueList>
+								</Property>
+								<Property Name="OverrideEffect" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="Effect0">
+									<Custom>
+										<Effect Name="Wwise_Time_Stretch_(Custom)" ID="{D9C029EF-3CEE-43DD-9796-0E39CC881BFA}" ShortID="527267199" PluginName="Wwise Time Stretch" CompanyID="0" PluginID="130" PluginType="3">
+											<PropertyList>
+												<Property Name="TimeStretch" Type="Real32" Value="120"/>
+												<Property Name="WindowSize" Type="int32" Value="256"/>
+											</PropertyList>
+										</Effect>
+									</Custom>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Race Start Ready go by steel2008" ID="{9BD77167-B25C-4625-8C93-312718774D70}">
+									<PropertyList>
+										<Property Name="TrimEnd" Type="Real64" Value="2.58"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Race Start Ready go by steel2008.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="384363436"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Race Start Ready go by steel2008" ID="{9BD77167-B25C-4625-8C93-312718774D70}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - Race Track by FoolBoyMedia" ID="{E8BF2130-4A6C-4BAB-9CD3-52E84284ED07}" ShortID="621078783">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Race Track by FoolBoyMedia" ID="{2FE102CE-D994-458F-A8E4-30F61C57F149}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Race Track by FoolBoyMedia.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="282267578"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Race Track by FoolBoyMedia" ID="{2FE102CE-D994-458F-A8E4-30F61C57F149}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<Playlist>
+						<ItemRef Name="Freesound - ready by Alivvie" ID="{16CBE706-27F6-4E90-AFD7-DA10A34FE3FC}"/>
+						<ItemRef Name="Freesound - Race Start Ready go by steel2008" ID="{B34E2FE8-A0AD-4A92-99AB-A5D76729298C}"/>
+						<ItemRef Name="Transportation Car Race Car Drive Off Loud Exhaust 08" ID="{C43CBB8F-3360-4F77-B393-15E8F4AA467B}"/>
+					</Playlist>
+				</RandomSequenceContainer>
+				<BlendContainer Name="Wind_Noise" ID="{A02B97DD-38C7-4449-9708-63E9B0C79A72}" ShortID="1017601027">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="SFX" ID="{ED904513-2397-47E3-84C9-90B7B3B7D2D0}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Freesound - Autumn wind and dry leaves_wav by Stek59" ID="{F49EBCB1-D4A1-4122-9559-22C34F510CE2}" ShortID="909446664">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="IsStreamingEnabled" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Autumn wind and dry leaves_wav by Stek59" ID="{55C64CFD-3C0D-414D-92E1-4EFBE42A67AC}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Autumn wind and dry leaves.wav by Stek59.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="678007999"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Autumn wind and dry leaves_wav by Stek59" ID="{55C64CFD-3C0D-414D-92E1-4EFBE42A67AC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - Strong Wind through leaves_wav by juskiddink" ID="{7D968B1D-83B8-449F-9E5C-EDA6CDBF1A1B}" ShortID="942571694">
+							<PropertyList>
+								<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+								<Property Name="IsStreamingEnabled" Type="bool">
+									<ValueList>
+										<Value>True</Value>
+									</ValueList>
+								</Property>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Strong Wind through leaves_wav by juskiddink" ID="{401C24A0-206B-4C0C-AEF8-ECB4487FE119}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Strong Wind through leaves.wav by juskiddink.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="685517661"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Strong Wind through leaves_wav by juskiddink" ID="{401C24A0-206B-4C0C-AEF8-ECB4487FE119}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<BlendTrackList>
+						<BlendTrack Name="New Blend Track" ID="{1C582344-C52D-48A8-9DD7-825272613DF1}" ShortID="647798845">
+							<PropertyList>
+								<Property Name="EnableCrossFading" Type="bool" Value="True"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="LayerCrossFadeControlInput">
+									<ObjectRef Name="WindVolume" ID="{D73E1789-746A-4954-9098-9567C19D8384}" WorkUnitID="{3B10FE25-A00F-4334-97F3-993B2D5E165F}"/>
+								</Reference>
+							</ReferenceList>
+							<BlendTrackAssocList>
+								<BlendTrackAssoc>
+									<ItemRef Name="Freesound - Autumn wind and dry leaves_wav by Stek59" ID="{F49EBCB1-D4A1-4122-9559-22C34F510CE2}"/>
+									<CrossfadingInfo>
+										<LeftEdgePos>0</LeftEdgePos>
+										<LeftFadingMode>Automatic</LeftFadingMode>
+										<RightEdgePos>59.9393939393939</RightEdgePos>
+										<RightFadingMode>Automatic</RightFadingMode>
+									</CrossfadingInfo>
+								</BlendTrackAssoc>
+								<BlendTrackAssoc>
+									<ItemRef Name="Freesound - Strong Wind through leaves_wav by juskiddink" ID="{7D968B1D-83B8-449F-9E5C-EDA6CDBF1A1B}"/>
+									<CrossfadingInfo>
+										<LeftEdgePos>29.0287902829028</LeftEdgePos>
+										<LeftFadingMode>Automatic</LeftFadingMode>
+										<RightEdgePos>100</RightEdgePos>
+										<RightFadingMode>Automatic</RightFadingMode>
+									</CrossfadingInfo>
+								</BlendTrackAssoc>
+							</BlendTrackAssocList>
+						</BlendTrack>
+					</BlendTrackList>
+				</BlendContainer>
+				<RandomSequenceContainer Name="Firework_Random" ID="{E515B1FB-2E06-481E-88C4-69AEA3B215F1}" ShortID="592794324">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="2"/>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{29F6304A-EDD1-4EFF-94DE-A2471670BACE}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="500"/>
+											<Property Name="Min" Type="Real64" Value="-500"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="PlayMechanismLoop" Type="bool" Value="True"/>
+						<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>12</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="Object_Attenuation" ID="{CACC3CAE-9331-4003-BD94-141015289693}" WorkUnitID="{4EA0B52D-053D-4E33-8450-05D9538E260E}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Freesound - firework rocket_wav by bigpickle51" ID="{687B9A2B-9D6F-4C8C-B797-43CE51AD7C39}" ShortID="690277690">
+							<PropertyList>
+								<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - firework rocket_wav by bigpickle51" ID="{226D7163-92EA-4E7A-AF76-19098CE9B82A}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - firework rocket.wav by bigpickle51.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1046147508"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - firework rocket_wav by bigpickle51" ID="{226D7163-92EA-4E7A-AF76-19098CE9B82A}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - tinymortar_wav by j1987" ID="{205CC50C-68AE-4BF4-82C7-F2560CF52A71}" ShortID="623062312">
+							<PropertyList>
+								<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - tinymortar_wav by j1987" ID="{0D320D0F-BE1A-4BB1-BAF8-6335F796F7B3}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - tinymortar.wav by j1987.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="707894444"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - tinymortar_wav by j1987" ID="{0D320D0F-BE1A-4BB1-BAF8-6335F796F7B3}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Freesound - Whistle and Explosion Single_Firework by Rudmer_" ID="{1B44F443-704C-426E-8F31-E763DC97B5F8}" ShortID="441410166">
+							<PropertyList>
+								<Property Name="EnableAttenuation" Type="bool" Value="False"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{CE5D9D57-AF4F-4AA4-B002-0E18172079BE}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{B79A895C-EC3C-45FE-BE3C-8F98B9D6ECAD}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Freesound - Whistle and Explosion Single_Firework by Rudmer_" ID="{110A37BC-7685-4ACF-AFC0-BE1E243C9A8C}">
+									<Language>SFX</Language>
+									<AudioFile>Freesound - Whistle and Explosion Single_Firework by Rudmer_.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="554441454"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Freesound - Whistle and Explosion Single_Firework by Rudmer_" ID="{110A37BC-7685-4ACF-AFC0-BE1E243C9A8C}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

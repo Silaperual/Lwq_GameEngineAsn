@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="135">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Shirl\Documents\GitHub\Lwq_GameEngineAsn\Nineth\Wwise\UnityUI\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles>
+		<File Id="678007999" Language="SFX">
+			<ShortName>Freesound - Autumn wind and dry leaves.wav by Stek59.wav</ShortName>
+			<Path>SFX\Freesound - Autumn wind and dry leaves.wav by Stek59_D79FB2B7.wem</Path>
+		</File>
+		<File Id="685517661" Language="SFX">
+			<ShortName>Freesound - Strong Wind through leaves.wav by juskiddink.wav</ShortName>
+			<Path>SFX\Freesound - Strong Wind through leaves.wav by juskiddink_D79FB2B7.wem</Path>
+		</File>
+	</StreamedFiles>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="436743010" Language="SFX" Hash="3382360666">
+			<ObjectPath>\SoundBanks\Default Work Unit\Character</ObjectPath>
+			<ShortName>Character</ShortName>
+			<Path>Character.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2713413746">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<GameParameters>
+				<GameParameter Id="61728499" Name="Character_SideChain" ObjectPath="\Game Parameters\Default Work Unit\Character_SideChain"/>
+				<GameParameter Id="743090327" Name="VoiceVolumnCtrl" ObjectPath="\Game Parameters\Default Work Unit\VoiceVolumnCtrl"/>
+				<GameParameter Id="2137043431" Name="SFXVolumeCrtl" ObjectPath="\Game Parameters\Default Work Unit\SFXVolumeCrtl"/>
+				<GameParameter Id="4170688747" Name="SoundVolumeCtrl" ObjectPath="\Game Parameters\Default Work Unit\SoundVolumeCtrl"/>
+			</GameParameters>
+		</SoundBank>
+		<SoundBank Id="1551306167" Language="SFX" Hash="2892326122">
+			<ObjectPath>\SoundBanks\Default Work Unit\UI</ObjectPath>
+			<ShortName>UI</ShortName>
+			<Path>UI.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1490931560" Name="Play_Car_StartAcc" ObjectPath="\Events\Default Work Unit\Play_Car_StartAcc" DurationType="OneShot" DurationMin="8.833875" DurationMax="8.833875">
+					<IncludedMemoryFiles>
+						<File Id="211139109" Language="SFX">
+							<ShortName>Freesound - ready by Alivvie.wav</ShortName>
+							<Path>SFX\Freesound - ready by Alivvie_10C4C929.wem</Path>
+						</File>
+						<File Id="282267578" Language="SFX">
+							<ShortName>Freesound - Race Track by FoolBoyMedia.wav</ShortName>
+							<Path>SFX\Freesound - Race Track by FoolBoyMedia_10C4C929.wem</Path>
+						</File>
+						<File Id="367940265" Language="SFX">
+							<ShortName>Transportation Car Race Car Drive Off Loud Exhaust 08.wav</ShortName>
+							<Path>SFX\Transportation Car Race Car Drive Off Loud Exhaust 08_C965D915.wem</Path>
+						</File>
+						<File Id="384363436" Language="SFX">
+							<ShortName>Freesound - Race Start Ready go by steel2008.wav</ShortName>
+							<Path>SFX\Freesound - Race Start Ready go by steel2008_22BC100C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="938457517" Name="Play_Firework_Random" ObjectPath="\Events\Default Work Unit\Play_Firework_Random" MaxAttenuation="50.000000" DurationType="Infinite">
+					<IncludedMemoryFiles>
+						<File Id="554441454" Language="SFX">
+							<ShortName>Freesound - Whistle and Explosion Single_Firework by Rudmer_.wav</ShortName>
+							<Path>SFX\Freesound - Whistle and Explosion Single_Firework by Rudmer__10C4C929.wem</Path>
+						</File>
+						<File Id="707894444" Language="SFX">
+							<ShortName>Freesound - tinymortar.wav by j1987.wav</ShortName>
+							<Path>SFX\Freesound - tinymortar.wav by j1987_10C4C929.wem</Path>
+						</File>
+						<File Id="1046147508" Language="SFX">
+							<ShortName>Freesound - firework rocket.wav by bigpickle51.wav</ShortName>
+							<Path>SFX\Freesound - firework rocket.wav by bigpickle51_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="2550995819" Name="Play_Menu_Pop" ObjectPath="\Events\Default Work Unit\Play_Menu_Pop" DurationType="OneShot" DurationMin="0.336667" DurationMax="0.336667">
+					<IncludedMemoryFiles>
+						<File Id="497554185" Language="SFX">
+							<ShortName>MenuOpen.wav</ShortName>
+							<Path>SFX\MenuOpen_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="94729922" Name="Play_Rain_Random" ObjectPath="\Events\Default Work Unit\Play_Rain_Random" DurationType="OneShot" DurationMin="67.491745" DurationMax="120.267281">
+					<IncludedMemoryFiles>
+						<File Id="78823392" Language="SFX">
+							<ShortName>Weather Ambience Heavy Rain Downpour Splatty 03.wav</ShortName>
+							<Path>SFX\Weather Ambience Heavy Rain Downpour Splatty 03_10C4C929.wem</Path>
+						</File>
+						<File Id="514924640" Language="SFX">
+							<ShortName>Weather Ambience Heavy Rain Downpour Splatty 01.wav</ShortName>
+							<Path>SFX\Weather Ambience Heavy Rain Downpour Splatty 01_10C4C929.wem</Path>
+						</File>
+						<File Id="695488694" Language="SFX">
+							<ShortName>Weather Ambience Heavy Rain Downpour Splatty 02.wav</ShortName>
+							<Path>SFX\Weather Ambience Heavy Rain Downpour Splatty 02_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+				<Event Id="72478519" Name="Play_Wind_Noise" ObjectPath="\Events\Default Work Unit\Play_Wind_Noise" DurationType="Infinite">
+					<ReferencedStreamedFiles>
+						<File Id="678007999" Language="SFX">
+							<ShortName>Freesound - Autumn wind and dry leaves.wav by Stek59.wav</ShortName>
+							<Path>SFX\Freesound - Autumn wind and dry leaves.wav by Stek59_D79FB2B7.wem</Path>
+						</File>
+						<File Id="685517661" Language="SFX">
+							<ShortName>Freesound - Strong Wind through leaves.wav by juskiddink.wav</ShortName>
+							<Path>SFX\Freesound - Strong Wind through leaves.wav by juskiddink_D79FB2B7.wem</Path>
+						</File>
+					</ReferencedStreamedFiles>
+				</Event>
+				<Event Id="4082738290" Name="Stop_Car_StartAcc" ObjectPath="\Events\Default Work Unit\Stop_Car_StartAcc" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="3272339231" Name="Stop_Firework_Random" ObjectPath="\Events\Default Work Unit\Stop_Firework_Random" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="1456013716" Name="Stop_Rain_Random" ObjectPath="\Events\Default Work Unit\Stop_Rain_Random" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+				<Event Id="2421352685" Name="Stop_Wind_Noise" ObjectPath="\Events\Default Work Unit\Stop_Wind_Noise" MaxAttenuation="0.000000" DurationType="OneShot" DurationMin="0.000000" DurationMax="0.000000"/>
+			</IncludedEvents>
+			<GameParameters>
+				<GameParameter Id="4122698001" Name="WindVolume" ObjectPath="\Game Parameters\Default Work Unit\WindVolume"/>
+			</GameParameters>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
